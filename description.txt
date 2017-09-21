@@ -1,1 +1,1 @@
-This C program builds cellular automaton models to simulate the spread of forest fire.
+This java program builds cellular automaton models to simulate the spread of forest fire.
